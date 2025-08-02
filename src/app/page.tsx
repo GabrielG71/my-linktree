@@ -25,7 +25,7 @@ export default function HomePage() {
           text="LinkedIn"
           description="Conecte-se comigo profissionalmente."
           platform="linkedin"
-          href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311v"
+          href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311"
         />
 
         <Links
