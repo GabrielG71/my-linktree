@@ -25,28 +25,28 @@ export default function HomePage() {
           text="LinkedIn"
           description="Conecte-se comigo profissionalmente."
           platform="linkedin"
-          href="https://linkedin.com/in/gabriel-goncalves-dev"
+          href="https://www.linkedin.com/in/gabriel-gonçalves-554a41311v"
         />
 
         <Links
           text="WhatsApp"
           description="Entre em contato direto comigo."
           platform="whatsapp"
-          href="https://wa.me/5514999999999"
+          href="https://wa.me/5518998005937"
         />
 
         <Links
           text="Email"
           description="Mande um email para conversarmos."
           platform="email"
-          href="mailto:contato@gabrielgon.com.br"
+          href="mailto:gabrielgoncalves2981@gmail.com"
         />
 
         <Links
           text="Instagram"
-          description="Acompanhe meu dia a dia."
+          description="Acompanhe mais sobre mim."
           platform="instagram"
-          href="https://instagram.com/gabrielg71"
+          href="https://www.instagram.com/gabriellllgon"
         />
       </div>
     </div>
